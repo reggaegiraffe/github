@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+h1,h2 {
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+
+.header{
+  background-color: #b8b7b4;
+  margin: 0;
+  text-align: center;
+}
+
+.bio{
+  background-color: #ffcfe4;
+}
+
+.trilogy {
+  background-color: #aed8f2;
+}
+
+.books {
+  background-color: white;
+}
+
+.footer {
+  background-color: white;
+}
